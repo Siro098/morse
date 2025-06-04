@@ -1,8 +1,3 @@
-/**
- * @file CMakeLists.txt
- * @brief CMake-Konfigurationsdatei für das Morse-Code-Projekt
- */
-
 cmake_minimum_required(VERSION 3.10)
 project(morse C)
 
